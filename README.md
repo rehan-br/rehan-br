@@ -25,7 +25,7 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,nodejs,fastapi,postgres,mongodb,redis,supabase,prisma,docker,aws,cloudflare,pytorch,git" />
+  <img src="https://skillicons.dev/icons?i=ts,py,react,next,nodejs,fastapi,postgres,mongodb,supabase,prisma,docker,aws,cloudflare,pytorch" />
 </p>
 <p align="center"><sub>+ OpenAI & Anthropic APIs — Realtime voice, RAG, structured output, tool use</sub></p>
 
@@ -33,12 +33,43 @@
 
 ## 🚀 Public & live
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan-br&repo=f1-25-telemetry-decoder&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan-br&repo=sigil&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan-br&repo=watcher&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan-br&repo=liars-wordle&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<details>
+<summary><b>🏎️ f1-25-telemetry-decoder</b> — a voice race engineer's ears</summary>
+<br>
+
+Decodes EA F1 25's live UDP stream — all 16 packet types, byte-level layouts validated at the socket boundary before anything downstream trusts them.
+
+📎 <a href="https://github.com/rehan-br/f1-25-telemetry-decoder">github.com/rehan-br/f1-25-telemetry-decoder</a>
+</details>
+
+<details>
+<summary><b>🔮 sigil</b> — trace a shape, get back a myth</summary>
+<br>
+
+Draw a constellation, an LLM writes its legend, and the trace becomes a permanent shareable URL — content-addressed, so tracing the same shape twice never creates a duplicate.
+
+📎 <a href="https://github.com/rehan-br/sigil">github.com/rehan-br/sigil</a>
+</details>
+
+<details>
+<summary><b>👁️ watcher</b> — you pick a word, it has to guess</summary>
+<br>
+
+An LLM plays 20-questions against a hidden word you chose, reasoning rendered live on screen — with a second model waiting in the wings if the first one stalls.
+
+📎 <a href="https://github.com/rehan-br/watcher">github.com/rehan-br/watcher</a>
+</details>
+
+<details>
+<summary><b>🎭 liars-wordle</b> — the tiles lie to you</summary>
+<br>
+
+A daily word game where the tile-colour feedback deliberately lies, on a hidden schedule — same puzzle, same rules, and yet nobody trusts the board.
+
+📎 <a href="https://github.com/rehan-br/liars-wordle">github.com/rehan-br/liars-wordle</a>
+</details>
+
+<br>
 
 ## 🔒 Cooking in private
 
@@ -52,33 +83,30 @@
 
 ## 🏢 The Developer Guys
 
-> *"We build apps that move you forward."*
+<table>
+<tr>
+<td width="110" align="center">
+  <img src="assets/dg-logo.jpg" width="90" />
+</td>
+<td>
 
-A small studio for people who want it built right the first time — web apps, APIs, AI agents that do real work. No account managers. Just the build.
+**A studio, not a solo act.** *"We build apps that move you forward."*
 
-**[thedeveloperguys.com](https://thedeveloperguys.com)** · **[hello@thedeveloperguys.com](mailto:hello@thedeveloperguys.com)**
+Web apps, APIs, and AI agents that do real work — built by people who are still around after the invoice clears. No account managers, no bloat, just the build.
+
+[thedeveloperguys.com](https://thedeveloperguys.com) · [hello@thedeveloperguys.com](mailto:hello@thedeveloperguys.com)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📊 GitHub, unfiltered
+## 🔥 Streak
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rehan-br&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-br&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-br&hide_border=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan-br&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br>
-
-## 📡 Recent activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br>
 
