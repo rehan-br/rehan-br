@@ -24,10 +24,10 @@ rehanbr.com · thedeveloperguys.com · linkedin.com/in/rehanbr · rbashir2001@gm
 
 | system | state | reads |
 |---|---|---|
-| `f1-race-engineer` | 🟢 live | decodes F1 25 telemetry at 20Hz, speaks over voice only on real state change |
+| `f1-race-engineer` | 🟠 testing first proto  | decodes F1 25 telemetry at 20Hz, speaks over voice only on real state change |
 | `clinicos` | 🟠 private build | Postgres RLS is the authorization boundary — not a UI check |
 | `vitacommerce` | 🟠 private build | lot-tracked inventory, allocated first-expired-first-out |
-| `music-taste-engine` | 🟢 live | ranks new music against a taste model trained to be provably wrong sometimes |
+| `music-taste-engine` | 🟠 prototyping  | ranks new music against a taste model trained to be provably wrong sometimes |
 
 <details>
 <summary><b>changelog — smaller, finished builds</b></summary>
